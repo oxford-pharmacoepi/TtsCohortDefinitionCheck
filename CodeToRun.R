@@ -14,6 +14,7 @@ library(dbplyr)
 library(dplyr)
 library(RPostgres)
 library(log4r)
+library(stringr)
 
 # Set output folder location -----
 # the path to a folder where the results from this analysis will be saved
